@@ -1,4 +1,7 @@
+# Joe Vaughn
+## Web Developer
 ### Hi there 👋
+I am a Portland based web developer. I have professional experience designing websites in Wordpress, Drupal, and Gatsby. I am well versed in HTML, CSS, Javascript, and React. I also am knowledgeable in Php, JSON, and GraphQL. 
 
 <!--
 **olethrosjv/olethrosjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
