@@ -3,6 +3,8 @@
 ### Hi there 👋
 I am a Portland based web developer. I have professional experience designing websites in Wordpress, Drupal, and Gatsby. I am well versed in HTML, CSS, Javascript, and React. I also am knowledgeable in Php, JSON, and GraphQL. 
 
+<a href="https://twitter.com/JosephV12364390" class="social-link fa fa-twitter"></a>
+
 <!--
 **olethrosjv/olethrosjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<a href="https://twitter.com/JosephV12364390" class="social-link fa fa-twitter"></a>
+
 -->
