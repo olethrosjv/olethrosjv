@@ -3,8 +3,8 @@
 ### Hi there 👋
 I am a Portland based web developer. I have professional experience designing websites in Wordpress, Drupal, and Gatsby. I am well versed in HTML, CSS, Javascript, and React. I also am knowledgeable in Php, JSON, and GraphQL. 
 
-<a href="https://twitter.com/JosephV12364390" class="social-link fa fa-twitter" style="font-size:3em;
-  line-height: 3.5em;">Twitter</a>
+
+  [Twitter](https://twitter.com/JosephV12364390 "Joe Vaughn's Twitter")
 
 <!--
 **olethrosjv/olethrosjv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://twitter.com/JosephV12364390" class="social-link fa fa-twitter"></a>
+<a href="https://twitter.com/JosephV12364390" class="scial-link fa fa-twitter"></a>
 
 -->
