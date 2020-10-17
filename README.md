@@ -1,7 +1,7 @@
 # Joe Vaughn
 ## Web Developer
 ### Hi there 👋
-I am a Portland based web developer. I have professional experience designing websites in Wordpress, Drupal, and Gatsby. I am well versed in HTML, CSS, Javascript, and React. I also am knowledgeable in Php, JSON, and GraphQL. 
+I am a Portland based web developer and content manager. I have professional experience designing websites in many different stacks and CMS'. I am well versed in HTML, CSS, Javascript, and React. I also am skilled in PHP, React, and GraphQL. 
 
 
   [Twitter](https://twitter.com/JosephV12364390 "Joe Vaughn's Twitter")
@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<a href="https://twitter.com/JosephV12364390" class="scial-link fa fa-twitter"></a>
+
 
 -->
+<a href="https://twitter.com/JosephV12364390" class="scial-link fa fa-twitter"></a>
